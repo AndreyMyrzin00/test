@@ -9,7 +9,7 @@ namespace Covid
     static class Program
     {
         /// <summary>
-        /// Главная точка входа для приложения.
+        
         /// </summary>
 		/// 1111111111!!!
         [STAThread]
