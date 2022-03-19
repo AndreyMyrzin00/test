@@ -11,7 +11,7 @@ namespace Covid
         /// <summary>
         
         /// </summary>
-		/// 1111111111!!!
+		/// 11111111jkghjkghjgh11!!!
         [STAThread]
         static void Main()
         {
